@@ -1,0 +1,508 @@
+[28-Feb-2024 14:39:23 Europe/Berlin] Realizando consulta a la base de datos...
+[28-Feb-2024 14:39:23 Europe/Berlin] Consulta a la base de datos realizada correctamente.
+[28-Feb-2024 14:39:23 Europe/Berlin] PHP Warning:  Undefined variable $e in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/service-automoviles.php on line 24
+[28-Feb-2024 14:39:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getMessage() on null in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/service-automoviles.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/service-automoviles.php on line 24
+[28-Feb-2024 14:40:49 Europe/Berlin] Realizando consulta a la base de datos...
+[28-Feb-2024 14:40:49 Europe/Berlin] Consulta a la base de datos realizada correctamente.
+[28-Feb-2024 15:00:32 Europe/Berlin] Realizando consulta a la base de datos...
+[28-Feb-2024 15:00:32 Europe/Berlin] Consulta a la base de datos realizada correctamente.
+[28-Feb-2024 15:04:05 Europe/Berlin] Realizando consulta a la base de datos...
+[28-Feb-2024 15:04:05 Europe/Berlin] Consulta a la base de datos realizada correctamente.
+[28-Feb-2024 15:15:32 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 15:15:32 Europe/Berlin] Realizando consulta a la base de datos...
+[28-Feb-2024 15:15:32 Europe/Berlin] Consulta a la base de datos realizada correctamente.
+[28-Feb-2024 15:20:47 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 15:20:47 Europe/Berlin] Realizando consulta a la base de datos...
+[28-Feb-2024 15:20:47 Europe/Berlin] Consulta a la base de datos realizada correctamente.
+[28-Feb-2024 17:30:14 Europe/Berlin] Realizando consulta a la base de datos...
+[28-Feb-2024 17:30:14 Europe/Berlin] Consulta a la base de datos realizada correctamente.
+[28-Feb-2024 17:51:45 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 17:51:45 Europe/Berlin] No se especificó una marca válida.
+[28-Feb-2024 17:51:45 Europe/Berlin] PHP Warning:  Undefined variable $modelos_nombres in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php on line 54
+[28-Feb-2024 17:53:17 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 17:53:17 Europe/Berlin] No se especificó una marca válida.
+[28-Feb-2024 17:55:23 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 17:55:23 Europe/Berlin] No se especificó una marca válida.
+[28-Feb-2024 17:58:11 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 17:58:11 Europe/Berlin] No se especificó una marca válida.
+[28-Feb-2024 18:07:44 Europe/Berlin] PHP Warning:  Undefined variable $ClientAutomoviles in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 115
+[28-Feb-2024 18:07:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ObtenerMarcasUrl() on null in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 115
+[28-Feb-2024 18:07:46 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 18:07:46 Europe/Berlin] No se especificó una marca válida.
+[28-Feb-2024 18:08:43 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error al llamar al servicio SOAP: Function 'ObtenerMarcasUrl' doesn't exist in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/client-automoviles.php:40
+Stack trace:
+#0 /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php(7): ClientAutomoviles->obtenerMarcasUrl()
+#1 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/client-automoviles.php on line 40
+[28-Feb-2024 18:16:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method ClientAutomoviles::obtenerMarcasUrl() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 7
+[28-Feb-2024 18:17:15 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error al llamar al servicio SOAP: Function 'ObtenerMarcasUrl' doesn't exist in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/client-automoviles.php:39
+Stack trace:
+#0 /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php(7): ClientAutomoviles->obtenerMarcasUrl()
+#1 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/client-automoviles.php on line 39
+[28-Feb-2024 18:18:15 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error al llamar al servicio SOAP: Function 'ObtenerMarcasUrl' doesn't exist in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/client-automoviles.php:39
+Stack trace:
+#0 /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php(7): ClientAutomoviles->ObtenerMarcasUrl()
+#1 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/client-automoviles.php on line 39
+[28-Feb-2024 18:18:16 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Error al llamar al servicio SOAP: Function 'ObtenerMarcasUrl' doesn't exist in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/client-automoviles.php:39
+Stack trace:
+#0 /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php(7): ClientAutomoviles->ObtenerMarcasUrl()
+#1 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/client-automoviles.php on line 39
+[28-Feb-2024 18:21:23 Europe/Berlin] PHP Warning:  Undefined variable $client in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 42
+[28-Feb-2024 18:21:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ObtenerMarcasUrl() on null in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 42
+[28-Feb-2024 18:23:05 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 18:23:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::ObtenerMarcasUrl() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 48
+[28-Feb-2024 18:25:27 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 18:25:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::ObtenerMarcasUrl() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 48
+[28-Feb-2024 18:28:05 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 18:28:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::ObtenerMarcasUrl() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 48
+[28-Feb-2024 18:28:10 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 18:28:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::ObtenerMarcasUrl() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 48
+[28-Feb-2024 18:29:28 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 18:29:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::ObtenerMarcasUrl() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 48
+[28-Feb-2024 18:31:24 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 18:31:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::ObtenerMarcasUrl() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 48
+[28-Feb-2024 21:16:45 Europe/Berlin] PHP Warning:  Module "soap" is already loaded in Unknown on line 0
+[28-Feb-2024 21:17:00 Europe/Berlin] PHP Warning:  Module "soap" is already loaded in Unknown on line 0
+[28-Feb-2024 21:17:02 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 21:17:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::ObtenerMarcasUrl() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 48
+[28-Feb-2024 21:28:02 Europe/Berlin] Se ha conectado a la BD coches.
+[28-Feb-2024 21:28:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::ObtenerMarcasUrl() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 48
+[02-Mar-2024 19:36:56 Europe/Berlin] PHP Warning:  Module "soap" is already loaded in Unknown on line 0
+[02-Mar-2024 19:37:03 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 19:37:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::ObtenerMarcasUrl() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 48
+[02-Mar-2024 19:44:43 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 19:44:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::ObtenerMarcasUrl() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 48
+[02-Mar-2024 19:44:57 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 19:50:33 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 19:50:35 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 19:56:53 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 19:57:03 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 19:57:07 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 19:57:14 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 19:57:18 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 19:57:21 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 19:59:44 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:02:33 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:02:50 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:02:57 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:02:59 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:03:05 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:04:38 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:04:39 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:05:18 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:05:20 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:06:46 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:06:46 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:06:50 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:06:58 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:07:55 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:08:29 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:08:58 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:10:32 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:10:32 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:10:34 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:11:20 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:11:22 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:11:25 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:12:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "server" not found in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 45
+[02-Mar-2024 20:12:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "server" not found in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 45
+[02-Mar-2024 20:12:30 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:13:39 Europe/Berlin] PHP Fatal error:  Cannot declare class GestionAutomoviles, because the name is already in use in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php on line 3
+[02-Mar-2024 20:13:47 Europe/Berlin] PHP Fatal error:  Cannot declare class GestionAutomoviles, because the name is already in use in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php on line 3
+[02-Mar-2024 20:13:53 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:16:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 33
+[02-Mar-2024 20:16:31 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 33
+[02-Mar-2024 20:17:16 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:17:47 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:18:00 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:18:07 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:18:14 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:18:20 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:18:42 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:19:16 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:20:59 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:21:05 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:22:17 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:22:20 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:23:57 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:24:00 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:24:06 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:24:14 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:24:17 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:24:18 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:24:21 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:24:39 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:24:41 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:25:35 Europe/Berlin] PHP Warning:  Undefined variable $GestionAutomoviles in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 28
+[02-Mar-2024 20:25:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ObtenerMarcasUrl() on null in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 28
+[02-Mar-2024 20:26:06 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:26:19 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:26:33 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:26:36 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:26:56 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:26:57 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:28:21 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:28:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::obtenerTodasLasMarcas() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 28
+[02-Mar-2024 20:28:28 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:29:42 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:29:42 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:30:59 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:31:06 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:31:06 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:31:14 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:31:15 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:31:15 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:32:20 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:32:20 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:32:36 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:32:36 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:32:38 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:32:38 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:32:47 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:33:33 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:33:33 Europe/Berlin] PHP Warning:  Undefined variable $murl in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 37
+[02-Mar-2024 20:33:33 Europe/Berlin] PHP Warning:  Undefined variable $murl in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 37
+[02-Mar-2024 20:33:33 Europe/Berlin] PHP Warning:  Undefined variable $murl in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 37
+[02-Mar-2024 20:33:33 Europe/Berlin] PHP Warning:  Undefined variable $murl in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 37
+[02-Mar-2024 20:33:33 Europe/Berlin] PHP Warning:  Undefined variable $murl in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 37
+[02-Mar-2024 20:33:33 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:33:33 Europe/Berlin] PHP Warning:  Undefined variable $murl in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 37
+[02-Mar-2024 20:34:34 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:34:34 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:34:40 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:34:47 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:34:52 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:34:54 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:34:58 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:35:09 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:35:13 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:35:22 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:35:24 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:36:00 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:36:03 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:36:06 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:36:54 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:38:15 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:38:18 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:38:22 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:38:22 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:38:23 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:38:23 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:38:24 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:40:32 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:40:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::obtenerMarcaPorModelo() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php on line 13
+[02-Mar-2024 20:40:35 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:40:35 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:40:35 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:40:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::obtenerMarcaPorModelo() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php on line 13
+[02-Mar-2024 20:40:42 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:40:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::obtenerMarcaPorModelo() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php on line 13
+[02-Mar-2024 20:40:51 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:40:54 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:40:59 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:41:04 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:41:04 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:41:05 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:41:05 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:41:08 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:41:08 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:41:11 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:41:17 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:41:20 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:41:20 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:41:23 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:41:23 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:41:48 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:41:48 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:41:56 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:43:34 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:43:37 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:43:53 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:47:41 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "else" in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php on line 58
+[02-Mar-2024 20:51:35 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:53:10 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:53:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::obtenerTodosLosModelos() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php on line 7
+[02-Mar-2024 20:54:13 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:54:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::obtenerTodosLosModelos() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php on line 7
+[02-Mar-2024 20:55:56 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:55:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::obtenerTodosLosModelos() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/modelos.php on line 7
+[02-Mar-2024 20:56:09 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:56:09 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:57:39 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:57:39 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:57:40 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:57:40 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 20:58:44 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 20:58:44 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 21:00:22 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:00:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::obtenerTodosLosModelos() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 15
+[02-Mar-2024 21:00:24 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:00:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::obtenerTodosLosModelos() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 15
+[02-Mar-2024 21:00:25 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:00:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::obtenerTodosLosModelos() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 15
+[02-Mar-2024 21:00:27 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:00:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::obtenerTodosLosModelos() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 15
+[02-Mar-2024 21:00:30 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:00:30 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 21:01:43 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:01:43 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:02:01 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:02:01 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:03:30 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:03:30 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:04:06 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:04:06 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:05:03 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:05:03 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 43
+[02-Mar-2024 21:05:07 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:05:07 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:06:06 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:06:06 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:07:22 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:07:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::obtenerNombreMarca() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 39
+[02-Mar-2024 21:07:28 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:07:28 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:08:23 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:08:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerNombreMarcaDesdeURL() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 39
+[02-Mar-2024 21:08:28 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:08:28 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:09:22 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:09:22 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:10:04 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:10:04 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:10:12 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:10:12 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:10:38 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:10:38 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + int in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 40
+[02-Mar-2024 21:11:09 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:11:09 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: strtolower(): Argument #1 ($string) must be of type string, array given in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:40
+Stack trace:
+#0 /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php(40): strtolower()
+#1 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 40
+[02-Mar-2024 21:11:14 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:11:14 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:11:37 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:11:37 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + int in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:11:56 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:11:56 Europe/Berlin] PHP Warning:  Undefined array key 6 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:11:56 Europe/Berlin] PHP Warning:  Undefined array key 7 in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:12:03 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:12:55 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:12:57 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:12:59 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:14:24 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:14:27 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:14:30 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:14:31 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:14:33 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:14:41 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:14:49 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:14:50 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:16:15 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:16:16 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:16:22 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:18:48 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:18:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::ObtenerMarcasYVideos() in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 31
+[02-Mar-2024 21:19:45 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:19:45 Europe/Berlin] Error al obtener marcas desde la base de datos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre' in 'field list'
+[02-Mar-2024 21:20:08 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:20:08 Europe/Berlin] Error al obtener marcas desde la base de datos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre' in 'field list'
+[02-Mar-2024 21:20:35 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:20:35 Europe/Berlin] PHP Warning:  Undefined property: GestionAutomoviles::$con in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php on line 34
+[02-Mar-2024 21:20:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php:34
+Stack trace:
+#0 /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php(31): GestionAutomoviles->ObtenerMarcasUrl()
+#1 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php on line 34
+[02-Mar-2024 21:21:13 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:21:13 Europe/Berlin] PHP Warning:  Undefined property: GestionAutomoviles::$con in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php on line 34
+[02-Mar-2024 21:21:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php:34
+Stack trace:
+#0 /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php(31): GestionAutomoviles->ObtenerMarcasUrl()
+#1 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php on line 34
+[02-Mar-2024 21:21:50 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:21:50 Europe/Berlin] PHP Warning:  Undefined property: GestionAutomoviles::$con in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php on line 34
+[02-Mar-2024 21:21:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php:34
+Stack trace:
+#0 /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php(31): GestionAutomoviles->ObtenerMarcasUrl()
+#1 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php on line 34
+[02-Mar-2024 21:22:36 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:23:58 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:23:58 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 35
+[02-Mar-2024 21:24:02 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:24:33 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:24:33 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php:72
+Stack trace:
+#0 /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php(51): GestionAutomoviles->ObtenerNombreMarcaPorIndice()
+#1 /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php(36): GestionAutomoviles->ObtenerModelosPorMarca()
+#2 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/GestionAutomoviles.php on line 72
+[02-Mar-2024 21:26:23 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:26:23 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rocio/Servidor-Linux/Tema 7/soap-automoviles/index.php on line 34
+[02-Mar-2024 21:26:26 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:27:04 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:28:01 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:29:33 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:29:41 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:36:52 Europe/Berlin] PHP Warning:  Module "soap" is already loaded in Unknown on line 0
+[02-Mar-2024 21:36:59 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:47:39 Europe/Berlin] PHP Warning:  Module "soap" is already loaded in Unknown on line 0
+[02-Mar-2024 21:47:47 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:50:37 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:52:18 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:53:11 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:53:28 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:55:05 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:55:48 Europe/Berlin] Se ha conectado a la BD coches.
+[02-Mar-2024 21:56:14 Europe/Berlin] Se ha conectado a la BD coches.
+[03-Mar-2024 13:31:35 Europe/Berlin] PHP Warning:  Module "soap" is already loaded in Unknown on line 0
+[03-Mar-2024 13:31:52 Europe/Berlin] Se ha conectado a la BD coches.
+[03-Mar-2024 18:33:18 Europe/Berlin] PHP Warning:  Module "soap" is already loaded in Unknown on line 0
+[03-Mar-2024 18:33:24 Europe/Berlin] Se ha conectado a la BD coches.
+[03-Mar-2024 18:34:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method GestionAutomoviles::conectarMarcas() in /home/rocio/Servidor-Linux/soap-automoviles-rocio/GestionAutomoviles.php:8
+Stack trace:
+#0 /home/rocio/Servidor-Linux/soap-automoviles-rocio/index.php(27): GestionAutomoviles->__construct()
+#1 {main}
+  thrown in /home/rocio/Servidor-Linux/soap-automoviles-rocio/GestionAutomoviles.php on line 8
+[03-Mar-2024 18:37:38 Europe/Berlin] Se ha conectado a la BD coches.
+[03-Mar-2024 18:37:53 Europe/Berlin] Se ha conectado a la BD coches.
+[03-Mar-2024 18:38:58 Europe/Berlin] Se ha conectado a la BD coches.
+[03-Mar-2024 18:38:58 Europe/Berlin] PHP Warning:  file_get_contents(http://localhost/service-automoviles.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/rocio/Servidor-Linux/soap-automoviles-rocio/GestionAutomoviles.php on line 34
+[03-Mar-2024 18:38:58 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in /home/rocio/Servidor-Linux/soap-automoviles-rocio/index.php on line 31
+[03-Mar-2024 18:38:58 Europe/Berlin] Se ha conectado a la BD coches.
+[03-Mar-2024 18:38:58 Europe/Berlin] PHP Warning:  file_get_contents(http://localhost/service-automoviles.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/rocio/Servidor-Linux/soap-automoviles-rocio/GestionAutomoviles.php on line 34
+[03-Mar-2024 18:38:58 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in /home/rocio/Servidor-Linux/soap-automoviles-rocio/index.php on line 31
+[03-Mar-2024 18:39:04 Europe/Berlin] Se ha conectado a la BD coches.
+[03-Mar-2024 18:39:04 Europe/Berlin] PHP Warning:  file_get_contents(http://localhost/service-automoviles.php): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/rocio/Servidor-Linux/soap-automoviles-rocio/GestionAutomoviles.php on line 34
+[03-Mar-2024 18:39:04 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in /home/rocio/Servidor-Linux/soap-automoviles-rocio/index.php on line 31
+[03-Mar-2024 18:39:31 Europe/Berlin] Se ha conectado a la BD coches.
+[03-Mar-2024 18:51:22 Europe/Berlin] Se ha conectado a la BD coches.
+[03-Mar-2024 18:56:30 Europe/Berlin] Se ha conectado a la BD coches.
+[03-Mar-2024 19:04:40 Europe/Berlin] Se ha conectado a la BD coches.
+[05-Mar-2024 16:01:55 Europe/Berlin] PHP Warning:  Module "soap" is already loaded in Unknown on line 0
+[05-Mar-2024 16:02:00 Europe/Berlin] Se ha conectado a la BD coches.
+[05-Mar-2024 16:03:40 Europe/Berlin] Se ha conectado a la BD coches.
+[05-Mar-2024 16:03:40 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'url' in 'field list' in /home/tarde/Documentos/soap-automoviles-rocio/GestionAutomoviles.php:33
+Stack trace:
+#0 /home/tarde/Documentos/soap-automoviles-rocio/GestionAutomoviles.php(33): PDOStatement->execute()
+#1 /home/tarde/Documentos/soap-automoviles-rocio/index.php(29): GestionAutomoviles->ObtenerMarcasUrl()
+#2 {main}
+  thrown in /home/tarde/Documentos/soap-automoviles-rocio/GestionAutomoviles.php on line 33
+[05-Mar-2024 16:15:53 Europe/Berlin] Se ha conectado a la BD coches.
